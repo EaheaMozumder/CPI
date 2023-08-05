@@ -94,7 +94,7 @@ html{
 }
 
 .cnotice i{
-  color: #609513;
+  color: #8768DE;
 }
 
 .cnotice li{
@@ -134,7 +134,7 @@ html{
 
 .about #header{
   color: #fff; 
-  background: #609513; 
+  background: #8768DE; 
   border: none; 
   border-radius: 0px;  
   font-size: 14px;
@@ -173,7 +173,7 @@ html{
 
 
 .menus i{
-  color: #609513;
+  color: #8768DE;
 }
 
 
@@ -194,7 +194,7 @@ html{
 
 }
 .menus li a:hover{
-  color: #609513;
+  color: #8768DE;
   margin-left: 5px;
 
 }
@@ -204,7 +204,7 @@ html{
 
 #featurehead{
   color: #fff; 
-  background: #609513; 
+  background: #8768DE; 
   border: none; 
   border-radius: 0px; 
   line-height:10px; 
@@ -216,7 +216,7 @@ html{
 
 #featureheads{
   color: #fff; 
-  background: #609513; 
+  background: #8768DE; 
   border: none; 
   border-radius: 0px; 
   line-height:10px; 
@@ -275,7 +275,7 @@ html{
 
 
 .notice{
-  background: #16a085; 
+  background: #8768DE; 
   padding: 10px; 
   color: #fff;
 }
@@ -289,13 +289,13 @@ html{
 
 .news{
   padding-top: 10px; 
-  color: #0e7c3f; 
+  color: #8768DE; 
   font-size: 14px;
   
 }
 
 .noticediv{
-  border-bottom: 2px solid #16a085;
+  border-bottom: 2px solid #8768DE;
   background: #fff;
   background: #f4f4f4;
 }
@@ -323,14 +323,14 @@ html{
 }
 .btns {
 
- background: #0060B1;
+ background: #8768DE;
  padding: 3px 6px;
  float: right;
  font-size: 13px;
 
 }
 .btns:hover{
-  background: #0099CC;
+  background: #8768DE;
 }
 
 
@@ -379,7 +379,7 @@ html{
 
 
 .feature a li:hover{
-  color: #609513;
+  color: #8768DE;
   text-decoration: none;
   background: #f9f9f9;
 }
@@ -409,7 +409,7 @@ html{
 
 
 .notices a li:hover{
-  color: #609513;
+  color: #8768DE;
   text-decoration: none;
   background: #f9f9f9;
 }
@@ -475,17 +475,6 @@ html{
 
 }
 
-
-
-.background{
-  background:linear-gradient(0deg, rgba(22, 160, 133, 0.7), rgba(22, 160, 133, 0.7)), url(../images/s2.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  color: #fff;
-  padding: 70px 30px;
-
-}
 
 
 .mainhead{
@@ -622,20 +611,20 @@ html{
 
 .develop{
   color: gray; 
-  font-size: 13px;
+  font-size: 15px;
 }
 
 
 .it{
   text-decoration: none;
-  color: #609513;
+  color: gray;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .it:hover{
   text-decoration: none;
-  color: #609513;
+  color: #8768DE;
 
 }
 
@@ -654,7 +643,7 @@ html{
 .viewdetails4{
   font-size: 10px;
   text-decoration: none;
-  color: #0e7c3f;
+  color: #8768DE;
 }
 
 .viewdetails4:hover{
@@ -669,12 +658,12 @@ html{
 }
 
 .pokasona{
-  color: #0e7c3f;
+  color: #8768DE;
   font-size: 25px;
 }
 
 .pokasonabb{
-  border-left: 4px solid #0e7c3f;
+  border-left: 4px solid #8768DE;
 }
 
 .message2{
@@ -755,7 +744,7 @@ html{
 .studentdetails{
   text-decoration: none;
   color: #fff;
-  background: #609513;
+  background: #8768DE;
   font-size: 12px;
   padding: 6px 12px;
   transition: 0.3s;
@@ -765,7 +754,7 @@ html{
 .studentdetails:hover{
   text-decoration: none;
   color: #fff;
-  background: #609513;
+  background: #8768DE;
 
 }
 
@@ -792,12 +781,6 @@ html{
 }
 
 
-.banner{
- background:linear-gradient(0deg, rgba(14, 124, 63, 0.8), rgba(14, 124, 63, 0.8)), url(../images/banner.jpg); 
- background-size: cover; 
- padding: 100px 20px;
-
-}
 
 
 
@@ -853,10 +836,6 @@ html{
   to{margin-top: 0px;}
 }
 
-
-.container{
-  
-}
 
 
 
