@@ -28,11 +28,12 @@ html{
 }
 
 .top{
-    height: 50px;
+    height: 35px;
     background-color: #8768DE;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-left: 15px;
 }
 
 
