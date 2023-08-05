@@ -34,39 +34,7 @@ html{
     justify-content: space-between;
     align-items: center;
 }
-.top a{
-    padding-left: 10px;
-    color: #FFF;
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: 600;
-}
-.top ul{
-    display: flex;
-}
-.top ul li{
-    list-style: none;
-    height: 40px;
-    width: 40px;
-    margin-right: 10px;
-    border-radius: 50%;
-    background-color: #FFF;
-    line-height: 40px;
-    border: 2px solid #FFF;
-}
-.top ul li a{
-    color: #000;
-    
-}
-.top ul li:hover{
-    transition: 0.5s;
-    color: #FFF;
-    background-color: #8768DE;
-    border: 2px solid #FFF;
-}
-.top ul li a i:hover{
-    color: #FFFFFF;
-}
+
 
 
 
@@ -173,7 +141,7 @@ html{
 
 
 .menus i{
-  color: #8768DE;
+  color: #585858;
 }
 
 
