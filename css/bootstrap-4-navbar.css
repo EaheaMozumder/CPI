@@ -51,7 +51,7 @@
     -webkit-box-shadow: none !important;
     box-shadow: none !important;
     color: #000;
-    border-top: 5px solid #098346;
+    border-top: 5px solid #8768DE;
 
 }
 
@@ -93,15 +93,15 @@
 
 
 /*first level*/
-.btco-hover-menu .collapse ul > li:hover > a{background: #098346; color: #fff; font-weight: bold; }
-.btco-hover-menu .collapse ul ul > li:hover > a, .navbar .show .dropdown-menu > li > a:focus, .navbar .show .dropdown-menu > li > a:hover{background: #098346; color: #fff; font-weight: bold; }
+.btco-hover-menu .collapse ul > li:hover > a{background: #8768DE; color: #fff; font-weight: bold; }
+.btco-hover-menu .collapse ul ul > li:hover > a, .navbar .show .dropdown-menu > li > a:focus, .navbar .show .dropdown-menu > li > a:hover{background: #8768DE; color: #fff; font-weight: bold; }
 /*second level*/
-.btco-hover-menu .collapse ul ul ul > li:hover > a{background: #098346;  color: #fff; font-weight: bold;}
+.btco-hover-menu .collapse ul ul ul > li:hover > a{background: #8768DE;  color: #fff; font-weight: bold;}
 
-.btco-hover-menu .collapse ul > li:focus > a{background: #098346; color: #fff; font-weight: bold; }
-.btco-hover-menu .collapse ul ul > li:focus > a, .navbar .show .dropdown-menu > li > a:focus, .navbar .show .dropdown-menu > li > a:hover{background: #098346; color: #fff; font-weight: bold; }
+.btco-hover-menu .collapse ul > li:focus > a{background: #8768DE; color: #fff; font-weight: bold; }
+.btco-hover-menu .collapse ul ul > li:focus > a, .navbar .show .dropdown-menu > li > a:focus, .navbar .show .dropdown-menu > li > a:hover{background: #8768DE; color: #fff; font-weight: bold; }
 /*second level*/
-.btco-hover-menu .collapse ul ul ul > li:focus > a{background: #098346;  color: #fff; font-weight: bold;}
+.btco-hover-menu .collapse ul ul ul > li:focus > a{background: #8768DE;  color: #fff; font-weight: bold;}
 
 /*third level*/
 .btco-hover-menu .collapse ul ul, .btco-hover-menu .collapse ul ul.dropdown-menu{background:#f4f4f4;}
