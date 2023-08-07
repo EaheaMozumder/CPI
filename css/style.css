@@ -27,15 +27,20 @@ html{
   to{opacity: 1;}
 }
 
-.top{
-    height: 35px;
-    background-color: #8768DE;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-left: 15px;
+
+.topheader{
+  background: #8768DE;
+  color: #fff;
+
+}
+.topheader a{
+  color: white;
+  
 }
 
+.topheader a:hover{
+  color: white;
+}
 
 
 
